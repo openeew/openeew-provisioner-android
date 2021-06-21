@@ -1,8 +1,5 @@
-# EspTouch for Android
-This APP is used to configure ESP devices to connect target AP.  
-The devices need run smart config: [esp-idf](https://github.com/espressif/esp-idf/tree/master/examples/wifi/smart_config) or [ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK/tree/master/examples/wifi/smart_config)  
-
-**Note: EspTouchV2 is not compatible with EspTouch**
+# OpenEEW App for Android
+This APP is used to configure OpenEEW devices to connect to a target WiFi AP, as well as sending user info to OpenEEW AppID.
 
 ## Licence
 - See [Licence](ESPRESSIF_MIT_LICENSE)
