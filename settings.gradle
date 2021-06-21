@@ -1,0 +1,4 @@
+include ':app'
+include ':esptouch'
+include ':esptouch-v2'
+rootProject.name='openeew-provisioner-android'
